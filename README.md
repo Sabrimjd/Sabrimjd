@@ -16,10 +16,10 @@ I’m a freelance System/Network/DevOps engineer with a lifelong passion for IT.
 
 ### Skills
 
-[smjed.net/skills/]([https://smjed.net/skills/)
+[smjed.net/skills]([https://smjed.net/skills)
 
 # Blog posts
-[smjed.net/posts/]([https://smjed.net/posts/)
+[smjed.net/posts]([https://smjed.net/posts)
 
 ### GitHub Stats
 
