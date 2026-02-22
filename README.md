@@ -20,13 +20,3 @@ I’m a freelance System/Network/DevOps engineer with a lifelong passion for IT.
 
 # Blog posts
 [smjed.net/posts]([https://smjed.net/posts)
-
-### GitHub Stats
-
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sabrimjd&count_private=true&show_icons=true](https://github-profile-trophy.vercel.app/?username=sabrimjd)" alt="sabrimjd's GitHub trophy" />
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=sabrimjd&count_private=true&show_icons=true" alt="sabrimjd's GitHub stats" />
-    <img width="401" src="https://streak-stats.demolab.com/?user=sabrimjd&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
-  </div>
-</div>
